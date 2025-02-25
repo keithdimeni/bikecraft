@@ -2,8 +2,6 @@
 
 Bikcraft é um site de venda de bicicletas elétricas personalizadas, desenvolvido com HTML, CSS e JavaScript puros.
 
-![Bikcraft Preview](./img/bikcraft-preview.jpg)
-
 ## Funcionalidades
 
 - Catálogo de bicicletas elétricas
